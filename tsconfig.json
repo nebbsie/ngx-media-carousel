@@ -9,6 +9,11 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
+    "paths": {
+      "ngx-media-carousel": [
+        "./dist/ngx-media-carousel"
+      ]
+    },
     "esModuleInterop": true,
     "sourceMap": true,
     "declaration": false,
